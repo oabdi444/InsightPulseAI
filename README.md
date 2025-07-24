@@ -1,15 +1,15 @@
-# InsightPulseAI - Advanced NLP Review Analyzer 🧠
+# InsightPulseAI - Advanced NLP Review Analyser 🧠
 
-A modern, production-ready NLP application for analyzing customer reviews with multiple AI techniques and interactive visualizations.
+A modern, production-ready NLP application for analysing customer reviews with multiple AI techniques and interactive visualisations.
 
 ## Features 
 
 - **Multiple Sentiment Analysis Methods**: Rule-based, VADER, and Transformer-based
-- **Advanced Topic Modeling**: LDA and NMF algorithms with interactive visualizations  
+- **Advanced Topic Modeling**: LDA and NMF algorithms with interactive visualisations  
 - **Smart Named Entity Recognition**: Pattern-based and Transformer-based entity extraction
 - **Interactive Dashboard**: Built with Streamlit for easy exploration
 - **Flexible Data Input**: Sample data, CSV upload, or manual text entry
-- **Rich Visualizations**: Plotly charts, word clouds, and entity distributions
+- **Rich Visualisations**: Plotly charts, word clouds, and entity distributions
 - **Production Ready**: Robust error handling and fallback mechanisms
 
 ## Quick Start 
@@ -71,7 +71,7 @@ InsightPulseAI/
 ### 3. **Enhanced User Experience**
 - Interactive parameter tuning
 - Multiple data input methods
-- Rich visualizations with Plotly
+- Rich visualisations with Plotly
 - Real-time processing feedback
 
 ### 4. **Advanced NLP Techniques**
@@ -82,7 +82,7 @@ InsightPulseAI/
 
 ## Usage Examples 
 
-### Analyze Sample Data
+### Analyse Sample Data
 ```python
 from utils.data_loader import load_sample_data
 from nlp_module.sentiment_analysis import analyze_sentiment_transformers
@@ -139,7 +139,7 @@ for topic in topics:
 - `streamlit` - Web interface
 - `pandas` - Data manipulation
 - `scikit-learn` - Machine learning algorithms
-- `plotly` - Interactive visualizations
+- `plotly` - Interactive visualisations
 
 ### Optional (with fallbacks)
 - `transformers` + `torch` - Advanced NLP models

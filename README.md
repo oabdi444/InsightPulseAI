@@ -555,7 +555,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Osman Abdi** 
+**Osman Hassan Abdi** 
 - GitHub: [@oabdi444](https://github.com/oabdi444)
 
 
